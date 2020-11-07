@@ -1,10 +1,9 @@
 package com.libraryCT.step_definitions;
 
 import com.libraryCT.pages.LoginPage;
-import com.libraryCT.utilities.ConfigurationReader;
-import com.libraryCT.utilities.Driver;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+
 
 public class LoginStepDef {
     @When("the user login as a {string} {string}")
