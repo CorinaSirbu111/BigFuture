@@ -25,5 +25,6 @@ public class LoginPage {
         email.sendKeys(username);
         this.password.sendKeys(password);
         signIn.click();
+
     }
 }
