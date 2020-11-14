@@ -13,10 +13,11 @@ public class ResearchBooksPage {
     @FindBy(css = "#inputEmail")
     public WebElement email;
 
-    @FindBy(css = "#inputEmail")
-    public WebElement email2; //just commenting smth //more comments added
+    @FindBy(id = "inputPassword")
+    public WebElement password;
+    
 
-
+    
 
 
 }
