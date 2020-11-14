@@ -14,7 +14,7 @@ public class ResearchBooksPage {
     public WebElement email;
 
     @FindBy(css = "#inputEmail")
-    public WebElement email2;
+    public WebElement email2; //just commenting smth
 
 
 }
