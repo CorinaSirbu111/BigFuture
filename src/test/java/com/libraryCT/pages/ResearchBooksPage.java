@@ -14,6 +14,10 @@ public class ResearchBooksPage {
     public WebElement email;
 
     @FindBy(id = "inputPassword")
-    public WebElement password;//kjghkj
-    //hjgjh
+    public WebElement password;
+    
+
+    
+
+
 }
